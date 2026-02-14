@@ -33,7 +33,7 @@ STEP 3: Enable Monitoring
 1. Open VM → Monitoring → Insights
 2. Click Enable
 3. Create Log Analytics Workspace
-    * Name: law-autoheal
+    * Name: vm-autoheal-01
 4. Enable
 
 ￼
